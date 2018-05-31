@@ -1,5 +1,5 @@
 ## May 31, 2018
-Created a new outline of end project 
+Created a new outline of end project and began finding the names for mobile home parks of idaho 
 https://docs.google.com/document/d/1CDYWBn4-3C6iE9v9qwogr7iTcnu_gasfPiLRT1F1qyE/edit
 ## May 29, 2018
 Created a map
