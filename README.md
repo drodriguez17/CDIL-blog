@@ -1,3 +1,6 @@
+## May 31, 2018
+Created a new outline of end project 
+https://docs.google.com/document/d/1CDYWBn4-3C6iE9v9qwogr7iTcnu_gasfPiLRT1F1qyE/edit
 ## May 29, 2018
 Created a map
 <iframe width="650" height="400" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col2+from+1Ic9MSim2ds5LMlBp44RBq6xg2NNYBWuGh3vUw7yg&amp;viz=MAP&amp;h=false&amp;lat=45.33565690223014&amp;lng=-119.21372772208343&amp;t=1&amp;z=5&amp;l=col2&amp;y=2&amp;tmplt=3&amp;hml=TWO_COL_LAT_LNG"></iframe>
